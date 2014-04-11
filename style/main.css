@@ -315,119 +315,119 @@ hr {
     font-size: 0px; }
   .tile.tile-2 .tile-inner {
     background: url(./Mahjong/redDragon.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-4 .tile-inner {
     background: url(./Mahjong/beiWind.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-8 .tile-inner {
     background: url(./Mahjong/xiWind.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-16 .tile-inner {
     background: url(./Mahjong/nanWind.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-32 .tile-inner {
     background: url(./Mahjong/dongWind.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-64 .tile-inner {
   
     background: url(./Mahjong/greenDragon.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-128 .tile-inner {
   
     background: url(./Mahjong/MMClogo1.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-256 .tile-inner {
   
     background: url(./Mahjong/MMClogo2.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-512 .tile-inner {
 
     background: url(./Mahjong/MMClogo3.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-1024 .tile-inner {
     
     background: url(./Mahjong/MMClogo4.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-2048 .tile-inner {
     
     background: url(./Mahjong/MMClogo5.jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     font-size:0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
 
     background: url(./Mahjong/MMClogo..jpg);
-    background-size:110px 110px;
+    background-size:100% 100%;
     background-repeat:no-repeat;
     font-size: 0px; 
 }
     @media screen and (max-width: 520px) {
       .tile.tile-512 .tile-inner {
-        background-size:55px 55px;
+        background-size:100% 100%;
         font-size: 0px; } }
 
 @-webkit-keyframes appear {
